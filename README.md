@@ -25,7 +25,8 @@
   ### Backbone
 
   - `EfficientNet-b5` (https://github.com/lukemelas/EfficientNet-PyTorch) model fine-tuning
-  - `ViT` (Visison Transformer)
+  - `ViT` (Visison Transformer, https://github.com/google-research/vision_transformer) model fine-tuning
+    - Ensemble시 다른 특징 적용 가능성
 
   ### Loss
 
