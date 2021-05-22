@@ -1,4 +1,4 @@
- # Boostcamp AI Tech Stage 1 - Image Classification
+  # Boostcamp AI Tech Stage 1 - Image Classification
 
   ## Report
 
